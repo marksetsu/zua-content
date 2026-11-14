@@ -1,5 +1,5 @@
 {
-  "_README": "The albums on the main screen (docs/MAIN_SCREEN.md). Placeholders until the owner decides: singers, titles, tracks, which are free, which carry the flame. Each album's price comes from the App Store (its unlock product, non-consumable); 'support' lists its consumable products (one or more tiers). A track plays only when 'song' names a chart in the app. Each track has one way to play it, 'mode': 'single' (the single ring, <song>-single.json) or 'double' (the double ring, <song>-double.json); 'stars' is how hard that is (1-5). Covers: covers/<album id>.jpg (square, ~2048 px); without one a placeholder is drawn.",
+  "_README": "News cards: 'tag' (the small label; default NEW ALBUM / NEW APP), 'image' (a picture filling the card) and 'icon' (an app icon at its right) by file name — in the app's news/ folder, or else put the file in zua-content/images/. The albums on the main screen (docs/MAIN_SCREEN.md). Placeholders until the owner decides: singers, titles, tracks, which are free, which carry the flame. Each album's price comes from the App Store (its unlock product, non-consumable); 'support' lists its consumable products (one or more tiers). A track plays only when 'song' names a chart in the app. Each track has one way to play it, 'mode': 'single' (the single ring, <song>-single.json) or 'double' (the double ring, <song>-double.json); 'stars' is how hard that is (1-5). Covers: covers/<album id>.jpg (square, ~2048 px); without one a placeholder is drawn.",
   "albums": [
     {
       "id": "a01",
@@ -52,8 +52,8 @@
     }
   ],
   "news": [
-    { "id": "n01", "kind": "album", "album": "a01", "title": "NEW ALBUM", "subtitle": "mijiku × 未時空 — 未時空(mijiku) makes music" },
-    { "id": "n02", "kind": "app", "title": "TOKYO BOOM", "subtitle": "ANOTHER GAME BY THE SAME HANDS", "appStoreID": "6818111707" },
-    { "id": "n03", "kind": "album", "album": "a03", "title": "COMING SOON", "subtitle": "SINGER C — ALBUM 03" }
+    { "id": "n01", "kind": "album", "album": "a01", "title": "未時空(mijiku) makes music", "subtitle": "mijiku × 未時空" },
+    { "id": "n02", "kind": "app", "title": "TOKYO BOOM", "subtitle": "NEON CHAINS TO THE BEAT · FROM THE MAKER OF ZUA", "appStoreID": "6818111707", "image": "tokyoboom.jpg", "icon": "tokyoboom-icon.png" },
+    { "id": "n03", "kind": "album", "album": "a03", "tag": "COMING SOON", "title": "ALBUM 03", "subtitle": "SINGER C" }
   ]
 }
