@@ -3,8 +3,8 @@
   "albums": [
     {
       "id": "a01",
-      "title": "未時空(mijiku) makes music",
-      "artist": "mijiku × 未時空",
+      "title": "Mijiku × 未時空 makes Music",
+      "artist": "Mijiku × 未時空",
       "released": "2026-11-01",
       "unlock": "jp.mark.zua.album.a01",
       "support": ["jp.mark.zua.support.a01"],
@@ -52,7 +52,7 @@
     }
   ],
   "news": [
-    { "id": "n01", "kind": "album", "album": "a01", "title": "未時空(mijiku) makes music", "subtitle": "mijiku × 未時空" },
+    { "id": "n01", "kind": "album", "album": "a01", "title": "Mijiku × 未時空 makes Music", "subtitle": "Mijiku × 未時空" },
     { "id": "n02", "kind": "app", "title": "TOKYO BOOM", "subtitle": "NEON CHAINS TO THE BEAT · FROM THE MAKER OF ZUA", "appStoreID": "6818111707", "image": "tokyoboom.jpg", "icon": "tokyoboom-icon.png" },
     { "id": "n03", "kind": "album", "album": "a03", "tag": "COMING SOON", "title": "ALBUM 03", "subtitle": "SINGER C" }
   ]
