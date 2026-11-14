@@ -1,0 +1,59 @@
+{
+  "_README": "The albums on the main screen (docs/MAIN_SCREEN.md). Placeholders until the owner decides: singers, titles, tracks, which are free, which carry the flame. Each album's price comes from the App Store (its unlock product, non-consumable); 'support' lists its consumable products (one or more tiers). A track plays only when 'song' names a chart in the app. Each track has one way to play it, 'mode': 'single' (the single ring, <song>-single.json) or 'double' (the double ring, <song>-double.json); 'stars' is how hard that is (1-5). Covers: covers/<album id>.jpg (square, ~2048 px); without one a placeholder is drawn.",
+  "albums": [
+    {
+      "id": "a01",
+      "title": "未時空(mijiku) makes music",
+      "artist": "mijiku × 未時空",
+      "released": "2026-11-01",
+      "unlock": "jp.mark.zua.album.a01",
+      "support": ["jp.mark.zua.support.a01"],
+      "tracks": [
+        { "id": "a01t01", "title": "きらめく一拍", "song": "kirameku-ippaku", "free": true, "hot": true,
+          "mode": "single", "stars": 3, "preview": { "start": 52.0, "length": 20.0 } },
+        { "id": "a01t02", "title": "One More", "song": "one-more", "free": true,
+          "mode": "single", "stars": 2, "preview": { "start": 101.0, "length": 20.0 } },
+        { "id": "a01t03", "title": "Run With Me (Let Go)", "song": "run-with-me", "free": true, "hot": true,
+          "mode": "double", "stars": 3, "preview": { "start": 70.0, "length": 20.0 } },
+        { "id": "a01t04", "title": "Wear This Scar", "song": "wear-this-scar", "free": true,
+          "mode": "double", "stars": 3, "preview": { "start": 55.0, "length": 20.0 } },
+        { "id": "a01t05", "title": "TRACK 05", "mode": "single", "stars": 5 }
+      ]
+    },
+    {
+      "id": "a02",
+      "title": "ALBUM 02",
+      "artist": "SINGER B",
+      "released": "2026-11-01",
+      "unlock": "jp.mark.zua.album.a02",
+      "support": ["jp.mark.zua.support.a02"],
+      "tracks": [
+        { "id": "a02t01", "title": "TRACK 01", "free": true, "hot": true, "mode": "single", "stars": 2 },
+        { "id": "a02t02", "title": "TRACK 02", "mode": "single", "stars": 3 },
+        { "id": "a02t03", "title": "TRACK 03", "mode": "single", "stars": 4 },
+        { "id": "a02t04", "title": "TRACK 04", "mode": "single", "stars": 3 }
+      ]
+    },
+    {
+      "id": "a03",
+      "title": "ALBUM 03",
+      "artist": "SINGER C",
+      "released": "2026-11-01",
+      "unlock": "jp.mark.zua.album.a03",
+      "support": ["jp.mark.zua.support.a03"],
+      "tracks": [
+        { "id": "a03t01", "title": "TRACK 01", "free": true, "mode": "single", "stars": 1 },
+        { "id": "a03t02", "title": "TRACK 02", "hot": true, "mode": "single", "stars": 3 },
+        { "id": "a03t03", "title": "TRACK 03", "mode": "single", "stars": 4 },
+        { "id": "a03t04", "title": "TRACK 04", "mode": "single", "stars": 5 },
+        { "id": "a03t05", "title": "TRACK 05", "mode": "single", "stars": 2 },
+        { "id": "a03t06", "title": "TRACK 06", "mode": "single", "stars": 4 }
+      ]
+    }
+  ],
+  "news": [
+    { "id": "n01", "kind": "album", "album": "a01", "title": "NEW ALBUM", "subtitle": "mijiku × 未時空 — 未時空(mijiku) makes music" },
+    { "id": "n02", "kind": "app", "title": "TOKYO BOOM", "subtitle": "ANOTHER GAME BY THE SAME HANDS", "appStoreID": "6818111707" },
+    { "id": "n03", "kind": "album", "album": "a03", "title": "COMING SOON", "subtitle": "SINGER C — ALBUM 03" }
+  ]
+}
