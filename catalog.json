@@ -22,6 +22,19 @@
       ]
     },
     {
+      "id": "a04",
+      "title": "Merry F*cking X'mas",
+      "artist": "Mijiku × 未時空",
+      "released": "2026-12-01",
+      "unlock": "jp.mark.zua.album.a04",
+      "support": ["jp.mark.zua.support.a04"],
+      "tracks": [
+        { "id": "a04t01", "title": "Merry F*cking X'mas", "mode": "single", "stars": 3 },
+        { "id": "a04t02", "title": "Half and a Half", "mode": "single", "stars": 3 },
+        { "id": "a04t03", "title": "Wish U Well (in hell)", "mode": "single", "stars": 3 }
+      ]
+    },
+    {
       "id": "a02",
       "title": "ALBUM 02",
       "artist": "SINGER B",
@@ -54,6 +67,7 @@
   ],
   "news": [
     { "id": "n01", "kind": "album", "album": "a01", "title": "Mijiku × 未時空 makes Music", "subtitle": "Mijiku × 未時空" },
+    { "id": "n04", "kind": "album", "album": "a04", "tag": "COMING SOON", "title": "Merry F*cking X'mas", "subtitle": "Mijiku × 未時空" },
     { "id": "n02", "kind": "app", "title": "TOKYO BOOM", "subtitle": "NEON CHAINS TO THE BEAT · FROM THE MAKER OF ZUA", "appStoreID": "6818111707", "image": "tokyoboom.jpg", "icon": "tokyoboom-icon.png" },
     { "id": "n03", "kind": "album", "album": "a03", "tag": "COMING SOON", "title": "ALBUM 03", "subtitle": "SINGER C" }
   ]
