@@ -44,7 +44,7 @@
       "support": ["jp.mark.zua.support.a04"],
       "tracks": [
         { "id": "a04t01", "title": "Merry F*cking X'mas", "mode": "single", "stars": 3 },
-        { "id": "a04t02", "title": "Half and a Half", "mode": "single", "stars": 3 },
+        { "id": "a04t02", "title": "Half And Half", "mode": "single", "stars": 3 },
         { "id": "a04t03", "title": "Wish U Well (in hell)", "mode": "single", "stars": 3 }
       ]
     }
