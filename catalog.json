@@ -47,42 +47,11 @@
         { "id": "a04t02", "title": "Half and a Half", "mode": "single", "stars": 3 },
         { "id": "a04t03", "title": "Wish U Well (in hell)", "mode": "single", "stars": 3 }
       ]
-    },
-    {
-      "id": "a02",
-      "title": "ALBUM 02",
-      "artist": "SINGER B",
-      "released": "2026-11-01",
-      "unlock": "jp.mark.zua.album.a02",
-      "support": ["jp.mark.zua.support.a02"],
-      "tracks": [
-        { "id": "a02t01", "title": "TRACK 01", "free": true, "hot": true, "mode": "single", "stars": 2 },
-        { "id": "a02t02", "title": "TRACK 02", "mode": "single", "stars": 3 },
-        { "id": "a02t03", "title": "TRACK 03", "mode": "single", "stars": 4 },
-        { "id": "a02t04", "title": "TRACK 04", "mode": "single", "stars": 3 }
-      ]
-    },
-    {
-      "id": "a03",
-      "title": "ALBUM 03",
-      "artist": "SINGER C",
-      "released": "2026-11-01",
-      "unlock": "jp.mark.zua.album.a03",
-      "support": ["jp.mark.zua.support.a03"],
-      "tracks": [
-        { "id": "a03t01", "title": "TRACK 01", "free": true, "mode": "single", "stars": 1 },
-        { "id": "a03t02", "title": "TRACK 02", "hot": true, "mode": "single", "stars": 3 },
-        { "id": "a03t03", "title": "TRACK 03", "mode": "single", "stars": 4 },
-        { "id": "a03t04", "title": "TRACK 04", "mode": "single", "stars": 5 },
-        { "id": "a03t05", "title": "TRACK 05", "mode": "single", "stars": 2 },
-        { "id": "a03t06", "title": "TRACK 06", "mode": "single", "stars": 4 }
-      ]
     }
   ],
   "news": [
     { "id": "n01", "kind": "album", "album": "a01", "title": "Mijiku × 未時空 makes Music", "subtitle": "Mijiku × 未時空" },
     { "id": "n04", "kind": "album", "album": "a04", "tag": "COMING SOON", "title": "Merry F*cking X'mas", "subtitle": "Mijiku × 未時空" },
-    { "id": "n02", "kind": "app", "title": "TOKYO BOOM", "subtitle": "NEON CHAINS TO THE BEAT · FROM THE MAKER OF ZUA", "appStoreID": "6818111707", "image": "tokyoboom.jpg", "icon": "tokyoboom-icon.png" },
-    { "id": "n03", "kind": "album", "album": "a03", "tag": "COMING SOON", "title": "ALBUM 03", "subtitle": "SINGER C" }
+    { "id": "n02", "kind": "app", "title": "TOKYO BOOM", "subtitle": "NEON CHAINS TO THE BEAT · FROM THE MAKER OF ZUA", "appStoreID": "6818111707", "image": "tokyoboom.jpg", "icon": "tokyoboom-icon.png" }
   ]
 }
