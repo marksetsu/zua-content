@@ -16,7 +16,7 @@
         { "id": "a01t06", "title": "For Tomorrow", "song": "for-tomorrow", "free": true,
           "mode": "single", "stars": 1.5, "preview": { "start": 104.0, "length": 20.0 } },
         { "id": "a01t04", "title": "Wear This Scar", "song": "wear-this-scar", "free": true,
-          "mode": "double", "stars": 4.5, "preview": { "start": 55.0, "length": 20.0 } },
+          "mode": "double", "stars": 3.5, "preview": { "start": 55.0, "length": 20.0 } },
         { "id": "a01t07", "title": "We Are The Spark", "song": "we-are-the-spark", "free": true,
           "mode": "double", "stars": 3.5, "preview": { "start": 110.0, "length": 20.0 } },
         { "id": "a01t08", "title": "Run With Me (Just You And Me)", "song": "run-with-me-jym", "free": true,
@@ -36,6 +36,28 @@
       ]
     },
     {
+      "id": "a02",
+      "title": "SHIN",
+      "artist": "Raara",
+      "released": "2026-11-19",
+      "unlock": "jp.mark.zua.album.a02",
+      "support": ["jp.mark.zua.support.a02"],
+      "tracks": [
+        { "id": "a02t01", "title": "When I Grow Up", "song": "when-i-grow-up", "free": true,
+          "mode": "single", "stars": 3, "preview": { "start": 104.0, "length": 20.0 } },
+        { "id": "a02t02", "title": "Pika Pika Pop Pop", "song": "pika-pika-pop-pop",
+          "mode": "single", "stars": 4, "preview": { "start": 34.0, "length": 20.0 } },
+        { "id": "a02t03", "title": "Sweet Sweet Love", "song": "sweet-sweet-love",
+          "mode": "single", "stars": 5, "preview": { "start": 47.0, "length": 20.0 } },
+        { "id": "a02t04", "title": "祈り (INORI)", "song": "inori",
+          "mode": "double", "stars": 3, "preview": { "start": 64.0, "length": 20.0 } },
+        { "id": "a02t05", "title": "悪い子 (Bad Bad Girl)", "song": "warui-ko",
+          "mode": "double", "stars": 4, "preview": { "start": 35.0, "length": 20.0 } },
+        { "id": "a02t06", "title": "SHIN", "song": "shin",
+          "mode": "double", "stars": 5, "preview": { "start": 50.0, "length": 20.0 } }
+      ]
+    },
+    {
       "id": "a04",
       "title": "Merry F*cking X'mas",
       "artist": "Mijiku × 未時空",
@@ -50,6 +72,7 @@
     }
   ],
   "news": [
+    { "id": "n05", "kind": "album", "album": "a02", "title": "SHIN", "subtitle": "Raara" },
     { "id": "n01", "kind": "album", "album": "a01", "title": "Mijiku × 未時空 makes Music", "subtitle": "Mijiku × 未時空" },
     { "id": "n04", "kind": "album", "album": "a04", "tag": "COMING SOON", "title": "Merry F*cking X'mas", "subtitle": "Mijiku × 未時空" },
     { "id": "n02", "kind": "app", "title": "TOKYO BOOM", "subtitle": "NEON CHAINS TO THE BEAT · FROM THE MAKER OF ZUA", "appStoreID": "6818111707", "image": "tokyoboom.jpg", "icon": "tokyoboom-icon.png" }
