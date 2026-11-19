@@ -72,9 +72,7 @@
     }
   ],
   "news": [
-    { "id": "n05", "kind": "album", "album": "a02", "title": "SHIN", "subtitle": "Raara" },
-    { "id": "n01", "kind": "album", "album": "a01", "title": "Mijiku × 未時空 makes Music", "subtitle": "Mijiku × 未時空" },
     { "id": "n04", "kind": "album", "album": "a04", "tag": "COMING SOON", "title": "Merry F*cking X'mas", "subtitle": "Mijiku × 未時空" },
-    { "id": "n02", "kind": "app", "title": "TOKYO BOOM", "subtitle": "NEON CHAINS TO THE BEAT · FROM THE MAKER OF ZUA", "appStoreID": "6818111707", "image": "tokyoboom.jpg", "icon": "tokyoboom-icon.png" }
+    { "id": "n02", "kind": "app", "title": "TOKYO BOOM", "subtitle": "NEON CHAINS TO THE BEAT · FROM THE MAKER OF ZUA", "appStoreID": "6818111707", "image": "tokyoboom.jpg", "video": "tokyoboom-loop.mp4", "icon": "tokyoboom-icon.png" }
   ]
 }
