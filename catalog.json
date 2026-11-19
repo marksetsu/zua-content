@@ -45,15 +45,15 @@
       "tracks": [
         { "id": "a02t01", "title": "When I Grow Up", "song": "when-i-grow-up", "free": true,
           "mode": "single", "stars": 3, "preview": { "start": 104.0, "length": 20.0 } },
-        { "id": "a02t02", "title": "Pika Pika Pop Pop", "song": "pika-pika-pop-pop",
+        { "id": "a02t02", "title": "Pika Pika Pop Pop", "song": "pika-pika-pop-pop", "free": true,
           "mode": "single", "stars": 4, "preview": { "start": 34.0, "length": 20.0 } },
-        { "id": "a02t03", "title": "Sweet Sweet Love", "song": "sweet-sweet-love",
+        { "id": "a02t03", "title": "Sweet Sweet Love", "song": "sweet-sweet-love", "free": true,
           "mode": "single", "stars": 5, "preview": { "start": 47.0, "length": 20.0 } },
-        { "id": "a02t04", "title": "祈り (INORI)", "song": "inori",
+        { "id": "a02t04", "title": "祈り (INORI)", "song": "inori", "free": true,
           "mode": "double", "stars": 3, "preview": { "start": 64.0, "length": 20.0 } },
-        { "id": "a02t05", "title": "悪い子 (Bad Bad Girl)", "song": "warui-ko",
+        { "id": "a02t05", "title": "悪い子 (Bad Bad Girl)", "song": "warui-ko", "free": true,
           "mode": "double", "stars": 4, "preview": { "start": 35.0, "length": 20.0 } },
-        { "id": "a02t06", "title": "SHIN", "song": "shin",
+        { "id": "a02t06", "title": "SHIN", "song": "shin", "free": true,
           "mode": "double", "stars": 5, "preview": { "start": 50.0, "length": 20.0 } }
       ]
     },
