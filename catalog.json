@@ -23,7 +23,7 @@
           "mode": "single", "stars": 3, "preview": { "start": 84.0, "length": 20.0 } },
         { "id": "a01t09", "title": "Go Hard", "song": "go-hard", "free": true,
           "mode": "single", "stars": 2.5, "preview": { "start": 99.0, "length": 20.0 } },
-        { "id": "a01t01", "title": "きらめく一拍", "song": "kirameku-ippaku", "free": true, "hot": true,
+        { "id": "a01t01", "title": "One Sparkling Beat", "song": "kirameku-ippaku", "free": true, "hot": true,
           "mode": "single", "stars": 2, "preview": { "start": 52.0, "length": 20.0 } },
         { "id": "a01t05", "title": "Neon Pulse", "song": "neon-pulse", "free": true,
           "mode": "double", "stars": 4.5, "preview": { "start": 70.0, "length": 20.0 } },
@@ -43,11 +43,11 @@
       "unlock": "jp.mark.zua.album.a02",
       "support": ["jp.mark.zua.support.a02"],
       "tracks": [
-        { "id": "a02t01", "title": "When I Grow Up", "song": "when-i-grow-up", "free": true,
+        { "id": "a02t01", "title": "ウェン・アイ・グロウ・アップ (When I Grow Up)", "song": "when-i-grow-up", "free": true,
           "mode": "single", "stars": 3, "preview": { "start": 104.0, "length": 20.0 } },
-        { "id": "a02t02", "title": "Pika Pika Pop Pop", "song": "pika-pika-pop-pop", "free": true,
+        { "id": "a02t02", "title": "ピカ・ピカ・ポップ・ポップ (Pika Pika Pop Pop)", "song": "pika-pika-pop-pop", "free": true,
           "mode": "single", "stars": 4, "preview": { "start": 34.0, "length": 20.0 } },
-        { "id": "a02t03", "title": "Sweet Sweet Love", "song": "sweet-sweet-love", "free": true,
+        { "id": "a02t03", "title": "スイート・スイート・ラブ (Sweet Sweet Love)", "song": "sweet-sweet-love", "free": true,
           "mode": "single", "stars": 5, "preview": { "start": 47.0, "length": 20.0 } },
         { "id": "a02t04", "title": "祈り (INORI)", "song": "inori", "free": true,
           "mode": "double", "stars": 3, "preview": { "start": 64.0, "length": 20.0 } },
@@ -55,6 +55,34 @@
           "mode": "double", "stars": 4, "preview": { "start": 35.0, "length": 20.0 } },
         { "id": "a02t06", "title": "SHIN", "song": "shin", "free": true,
           "mode": "double", "stars": 5, "preview": { "start": 50.0, "length": 20.0 } }
+      ]
+    },
+    {
+      "id": "a03",
+      "title": "HORIZON",
+      "artist": "Novaris",
+      "released": "2026-11-20",
+      "unlock": "jp.mark.zua.album.a03",
+      "support": ["jp.mark.zua.support.a03"],
+      "tracks": [
+        { "id": "a03t01", "title": "Till the Speakers Break", "song": "speaker-ga-wareru-made", "free": true,
+          "mode": "double", "stars": 4, "preview": { "start": 123.0, "length": 20.0 } },
+        { "id": "a03t02", "title": "Horizon", "song": "yume-ou-shonen", "free": true,
+          "mode": "single", "stars": 4, "preview": { "start": 50.0, "length": 20.0 } }
+      ]
+    },
+    {
+      "id": "a05",
+      "title": "Night Drive",
+      "artist": "Lee",
+      "released": "2026-11-20",
+      "unlock": "jp.mark.zua.album.a05",
+      "support": ["jp.mark.zua.support.a05"],
+      "tracks": [
+        { "id": "a05t01", "title": "Never Sober", "song": "never-sober", "free": true,
+          "mode": "double", "stars": 3, "preview": { "start": 73.0, "length": 20.0 } },
+        { "id": "a05t02", "title": "Shhh... It's a Secret", "song": "shhh-its-a-secret", "free": true,
+          "mode": "single", "stars": 3, "preview": { "start": 22.0, "length": 20.0 } }
       ]
     },
     {
